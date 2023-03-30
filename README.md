@@ -3,7 +3,7 @@
 
 <div align="center">
 
-Hola, mi nombre es Cristóbal Guerra y vivo en Santiago de Chile. Actualmente me encuentro trabajando como Data Scientist Inter en [Instacrops](https://www.instacrops.com). 
+Hola, mi nombre es Ricardo Espinoza y vivo en Santiago de Chile. Actualmente me encuentro en mi quinto año de estudios de Ingeniería Civil Industrial en la Universidad de Chile y del Master of Data Science que imparte la misma casa de estudios. De manera paralela y hace varios años trabajo en el mercado de los productos cárneos, donde cumplo varias funciones relacionadas a gestión y control de procesos.   
 
 </div>
 
